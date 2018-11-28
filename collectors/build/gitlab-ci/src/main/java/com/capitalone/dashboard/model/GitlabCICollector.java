@@ -1,7 +1,5 @@
 package com.capitalone.dashboard.model;
 
-import com.capitalone.dashboard.model.Collector;
-
 /**
  * Collect Features from Gitlab CI
  */

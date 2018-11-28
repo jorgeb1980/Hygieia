@@ -1,9 +1,9 @@
 package com.capitalone.dashboard;
 
+import javax.net.ssl.HttpsURLConnection;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-import javax.net.ssl.HttpsURLConnection;
 
 /**
  * Application configuration and bootstrap

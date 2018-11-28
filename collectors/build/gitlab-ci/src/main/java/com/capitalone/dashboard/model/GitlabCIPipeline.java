@@ -1,7 +1,5 @@
 package com.capitalone.dashboard.model;
 
-import com.capitalone.dashboard.model.CollectorItem;
-
 public class GitlabCIPipeline extends CollectorItem {
     private long projectId;
 
