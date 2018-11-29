@@ -1,7 +1,10 @@
 package com.capitalone.dashboard.model;
 
 /**
- * Collect Features from Gitlab CI
+ * Collection: collectors
+ * 
+ * Collect Features from Gitlab CI.  This document will be a singleton in Mongo and 
+ * models this module into the Hygiea instance.
  */
 public class GitlabCICollector extends Collector {
 	//-------------------------------------------------
